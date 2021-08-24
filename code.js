@@ -5,5 +5,5 @@ function helloWorld() {
 
 //sayHello
 function sayHello() {
-
+    return "Hello, Destiney"
 }
